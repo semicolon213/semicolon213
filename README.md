@@ -82,12 +82,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Development Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=semicolon213&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&rank_icon=github" height="155" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semicolon213&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="155" alt="Top languages" />
+<img src="./assets/development-card.svg" width="440" alt="Development projects" />
+<img src="./assets/stack-card.svg" width="440" alt="Technology stack" />
 
 </div>
 
